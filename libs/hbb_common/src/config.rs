@@ -99,7 +99,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["Linx.i234.me"];
-pub const RS_PUB_KEY: &str = "0Iux1UJdjD0VwyRGwNBwxEagSOZvmC8cptseE0LZIxU=";
+pub const RS_PUB_KEY: &str = "7X4!!!326GH5G%dc2^3ZzHL8@k9g@Zg@qps9Pm223y87";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
